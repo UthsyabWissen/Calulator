@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Calci\Calci\bin\Debug\Calci.exe.config
+C:\Users\User\source\repos\Calci\Calci\bin\Debug\Calci.exe
+C:\Users\User\source\repos\Calci\Calci\bin\Debug\Calci.pdb
+C:\Users\User\source\repos\Calci\Calci\obj\Debug\Calci.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calci\Calci\obj\Debug\Calci.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Calci\Calci\obj\Debug\Calci.Properties.Resources.resources
+C:\Users\User\source\repos\Calci\Calci\obj\Debug\Calci.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calci\Calci\obj\Debug\Calci.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calci\Calci\obj\Debug\Calci.exe
+C:\Users\User\source\repos\Calci\Calci\obj\Debug\Calci.pdb
+C:\Users\User\source\repos\Calci\Calci\obj\Debug\Calci.Base.resources
